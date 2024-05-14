@@ -39,7 +39,7 @@ public class Main {
             if (goodBoy[i] % 2 != 0) {
                 goodBoy[i] = goodBoy[i] + 1;
             }
-            System.out.print(Arrays.toString(goodBoy));
         }
+        System.out.print(Arrays.toString(goodBoy));
         }
 }
